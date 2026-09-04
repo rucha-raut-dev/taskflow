@@ -62,7 +62,7 @@ export default function Profile() {
                 </p>
 
                 <p className="mt-2 font-medium text-slate-800">
-                  rucha@example.com
+                  rucha@gmail.com
                 </p>
               </div>
 
